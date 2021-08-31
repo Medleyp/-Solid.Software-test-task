@@ -1,7 +1,8 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:test_task/widgets/add_new_text.dart';
+
+import './widgets/add_new_text.dart';
 
 void main() => runApp(const MyApp());
 
